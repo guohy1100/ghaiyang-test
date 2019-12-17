@@ -1,11 +1,12 @@
 {
-    "name": "ghaiyang/test",
+    "name": "ghaiyang",
 	"require": {
         "php": ">=5.3"
     },
     "autoload": {
         "psr-4": {
-            "ghaiyang/test\\": "src/"
+            "ghaiyang\\manage\\class": "src/"
+			
         }
     }
 }
