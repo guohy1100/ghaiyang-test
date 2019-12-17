@@ -1,5 +1,5 @@
 <?php
-namespace manage:
+namespace manage;
 class Test
 {
     public function dev()
