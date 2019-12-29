@@ -1,5 +1,5 @@
 <?php
-namespace manage;
+namespace Ghaiyang\Test;
 class Test
 {
     public function dev()
